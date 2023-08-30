@@ -8,7 +8,7 @@
 
 ## LineBot畫面
 
-![image](https://github.com/AlanChiangg/LineBot-ChatGPT3.5/blob/main/images/linebotgif.gif)
+<img src="https://github.com/AlanChiangg/LineBot-ChatGPT3.5/blob/main/images/linebotgif.gif" width="300" height="300">
 
 ## 如何套用成自己的LineBot
 
