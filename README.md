@@ -3,7 +3,7 @@
 * 一個簡易的LineBot，[串接Open AI](https://www.npmjs.com/package/openai)，讓使用者可以直接在Line上和ChatGPT問問題。
 
 * LineBot ID：阿敏之音　@560fzvhu
-* 雲端伺服器佈署：[Render](https://render.com/)
+* 雲端伺服器佈署：AWS EC2
 * LINE官方：[LineBot API](https://developers.line.biz/zh-hant/services/messaging-api/)
 
 ## LineBot畫面
@@ -45,7 +45,7 @@
       }
     ]
     ```
-8. 佈署於自己的雲端伺服器，本專案佈署於[Render](https://render.com/)，完成佈署後即可使用！
+8. 佈署於自己的雲端伺服器，本專案佈署於AWS EC2，完成佈署後即可使用！
 
 
 ## 開發環境與主要套件
